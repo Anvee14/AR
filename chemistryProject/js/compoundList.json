@@ -1,0 +1,280 @@
+{
+  "0": {
+    "element_name": "H",
+    "barcode_value": 0,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "HF",
+        "elements": ["H", "F"]
+      },
+      {
+        "compound_name": "HCl",
+        "elements": ["H", "Cl"]
+      },
+      {
+        "compound_name": "HBr",
+        "elements": ["H", "Br"]
+      },
+      {
+        "compound_name": "HI",
+        "elements": ["H", "I"]
+      }
+    ]
+  },
+  "1": {
+    "element_name": "Li",
+    "barcode_value": 1,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "LiF",
+        "elements": ["Li", "F"]
+      },
+      {
+        "compound_name": "LiCl",
+        "elements": ["Li", "Cl"]
+      },
+      {
+        "compound_name": "LiBr",
+        "elements": ["Li", "Br"]
+      },
+      {
+        "compound_name": "LiI",
+        "elements": ["Li", "I"]
+      }
+    ]
+  },
+  "2": {
+    "element_name": "Na",
+    "barcode_value": 2,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "NaF",
+        "elements": ["Na", "F"]
+      },
+      {
+        "compound_name": "NaCl",
+        "elements": ["Na", "Cl"]
+      },
+      {
+        "compound_name": "NaBr",
+        "elements": ["Na", "Br"]
+      },
+      {
+        "compound_name": "NaI",
+        "elements": ["Na", "I"]
+      }
+    ]
+  },
+  "3": {
+    "element_name": "K",
+    "barcode_value": 3,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "KF",
+        "elements": ["K", "F"]
+      },
+      {
+        "compound_name": "KCl",
+        "elements": ["K", "Cl"]
+      },
+      {
+        "compound_name": "KBr",
+        "elements": ["K", "Br"]
+      },
+      {
+        "compound_name": "KI",
+        "elements": ["K", "I"]
+      }
+    ]
+  },
+  "4": {
+    "element_name": "F",
+    "barcode_value": 4,
+    "number_of_electron": 7,
+    "compounds": []
+  },
+  "5": {
+    "element_name": "Cl",
+    "barcode_value": 5,
+    "number_of_electron": 7,
+    "compounds": []
+  },
+  "6": {
+    "element_name": "Br",
+    "barcode_value": 6,
+    "number_of_electron": 7,
+    "compounds": []
+  },
+  "7": {
+    "element_name": "I",
+    "barcode_value": 7,
+    "number_of_electron": 7,
+    "compounds": []
+  },
+  "8": {
+    "element_name": "O",
+    "barcode_value": 8,
+    "number_of_electron": 6,
+    "compounds": [
+      {
+        "compound_name": "H2O",
+        "elements": ["H", "O", "H"]
+      },
+      {
+        "compound_name": "Na2O",
+        "elements": ["Na", "O", "Na"]
+      },
+      {
+        "compound_name": "Li2O",
+        "elements": ["Li", "O", "Li"]
+      },
+      {
+        "compound_name": "K2O",
+        "elements": ["K", "O", "K"]
+      }
+    ]
+  },
+  "9": {
+    "element_name": "S",
+    "barcode_value": 9,
+    "number_of_electron": 6,
+    "compounds": [
+      {
+        "compound_name": "H2S",
+        "elements": ["H", "S", "H"]
+      },
+      {
+        "compound_name": "Na2S",
+        "elements": ["Na", "S", "Na"]
+      },
+      {
+        "compound_name": "Li2S",
+        "elements": ["Li", "S", "Li"]
+      },
+      {
+        "compound_name": "K2S",
+        "elements": ["K", "S", "K"]
+      }
+    ]
+  },
+  "10": {
+    "element_name": "Se",
+    "barcode_value": 10,
+    "number_of_electron": 6,
+    "compounds": [
+      {
+        "compound_name": "H2Se",
+        "elements": ["H", "Se", "H"]
+      },
+      {
+        "compound_name": "Na2Se",
+        "elements": ["Na", "Se", "Na"]
+      },
+      {
+        "compound_name": "Li2Se",
+        "elements": ["Li", "Se", "Li"]
+      },
+      {
+        "compound_name": "K2Se",
+        "elements": ["K", "Se", "K"]
+      }
+    ]
+  },
+
+  "11": {
+    "element_name": "H",
+    "barcode_value": 11,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "HF",
+        "elements": ["H", "F"]
+      },
+      {
+        "compound_name": "HCl",
+        "elements": ["H", "Cl"]
+      },
+      {
+        "compound_name": "HBr",
+        "elements": ["H", "Br"]
+      },
+      {
+        "compound_name": "HI",
+        "elements": ["H", "I"]
+      }
+    ]
+  },
+  "12": {
+    "element_name": "Li",
+    "barcode_value": 12,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "LiF",
+        "elements": ["Li", "F"]
+      },
+      {
+        "compound_name": "LiCl",
+        "elements": ["Li", "Cl"]
+      },
+      {
+        "compound_name": "LiBr",
+        "elements": ["Li", "Br"]
+      },
+      {
+        "compound_name": "LiI",
+        "elements": ["Li", "I"]
+      }
+    ]
+  },
+  "13": {
+    "element_name": "Na",
+    "barcode_value": 13,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "NaF",
+        "elements": ["Na", "F"]
+      },
+      {
+        "compound_name": "NaCl",
+        "elements": ["Na", "Cl"]
+      },
+      {
+        "compound_name": "NaBr",
+        "elements": ["Na", "Br"]
+      },
+      {
+        "compound_name": "NaI",
+        "elements": ["Na", "I"]
+      }
+    ]
+  },
+  "14": {
+    "element_name": "K",
+    "barcode_value": 14,
+    "number_of_electron": 1,
+    "compounds": [
+      {
+        "compound_name": "KF",
+        "elements": ["K", "F"]
+      },
+      {
+        "compound_name": "KCl",
+        "elements": ["K", "Cl"]
+      },
+      {
+        "compound_name": "KBr",
+        "elements": ["K", "Br"]
+      },
+      {
+        "compound_name": "KI",
+        "elements": ["K", "I"]
+      }
+    ]
+  }
+}

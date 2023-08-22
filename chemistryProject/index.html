@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8" />
+  <title>AR Chemistry</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+  <script src="https://aframe.io/releases/1.0.1/aframe.min.js"></script>
+  <script src="https://rawgit.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
+  <script src="./js/Compounds.js"></script>
+  <script src="./js/markerhandler.js"></script>
+</head>
+
+<body style="margin : 0px; overflow: hidden;">
+  <!-- Add detectionMode and matrixCodeType to tell AR.js to recognize barcode markers -->
+  <a-scene id="main-scene" vr-mode-ui="enabled: false"
+    arjs="sourceType: webcam; debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;" embedded
+    atoms>
+    <a-plane id="message-text" position="0 0 -3.2" rotation="0 0 0" width="1.6" height="0.15" color="#FFFFFF"
+      visible="false">
+      <a-entity text="font:monoid;value:Compound will not form...;align:center;width:2.1;color:#c2185b;"></a-entity>
+    </a-plane>
+
+    <a-entity id="camera" camera></a-entity>
+  </a-scene>
+</body>
+
+</html>
